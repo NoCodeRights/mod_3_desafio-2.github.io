@@ -1,0 +1,14 @@
+
+#paisaje{
+    padding: 10px;
+}
+
+.titulos{
+    justify-content: center;
+    padding: 20px;
+}
+
+.stickers{
+    display: flex;
+    flex-direction: row;
+}
